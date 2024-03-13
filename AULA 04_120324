@@ -1,0 +1,26 @@
+<DOCTYPE html
+<body lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Veículos Fatec</title>
+    <!--css -->
+    <link href="css/estilo.css" rel="stylesheet" />
+</head>
+
+</body>
+<h1>Relação de carros</h1>
+    <h2>Fatec Carros</h2>
+    <table border="1">
+        <thead>
+            <tr>
+                <th>Marca</th>
+                <th>Modelo</th>
+                <th>Ano</th>
+                <th>Foto</th>
+                <th>Preço</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>Fiat</td> <td>Mobi</td> <td>R$55.490,00</td> <td class="direita">G</td><td class="direita">30</td>
